@@ -10,6 +10,8 @@
 <img src="https://github.com/kean/Nuke/workflows/Nuke%20CI/badge.svg">
 </p>
 
+THIS IS A FIXED VERSION OF NUKE THAT ISN'T BROKEN WITH CARTHAGE, BECAUSE THE MAINTAINER OF NUKE DENIES REALITY AND BLAMES THE USER.
+
 > Upgrading from the previous version? Use a [**Migration Guide**](https://github.com/kean/Nuke/blob/9.2.0/Documentation/Migrations).
 
 Nuke provides a simple and efficient way to download and display images in your app. Behind its clear and concise API is an advanced architecture which enables its unique features and offers virtually unlimited possibilities for customization. The primary Nuke feature is [performance](https://kean.github.io/post/nuke-9).
